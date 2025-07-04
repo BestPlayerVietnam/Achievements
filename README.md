@@ -30,5 +30,5 @@ Finalist of the "I am a Professional" Olympiad — Software Engineering Track (2
 
   Letters of appreciation from IRGUPS and MIIT
 
-Extra Achievements
+⭐ Extra Achievements
   Twice portfolio winner of NSU (AI&DS program) and SPBSTU (AI&ML program)
